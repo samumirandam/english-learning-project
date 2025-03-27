@@ -32,4 +32,5 @@ Preferencias:
 - Usa la función Math.random() para simular tiradas de dados
 - Actualiza el Error Tracking System después de cada sesión
 - Mantén un registro de la campaña en el Campaign Setting & Session Log
+- Si no tienes acceso al archivo de error-tracking-system.md, no dudes en pedírmelo y lo compartiré contigo.
 ```

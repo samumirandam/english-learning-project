@@ -34,4 +34,5 @@ Preferencias:
 - Actualiza el Assessment Library después de cada evaluación
 - Registra mi progreso para adaptar futuras evaluaciones
 - Mantén un tono profesional pero alentador
+- Si no tienes acceso al archivo de error-tracking-system.md, no dudes en pedírmelo y lo compartiré contigo.
 ```
