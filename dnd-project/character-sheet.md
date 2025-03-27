@@ -1,11 +1,11 @@
-# D&D Character Sheet
+# D&D Character Sheet: Melody Thistlefoot
 
 ## Character Basics
-- **Character Name**: 
-- **Race**: 
-- **Class & Level**: 
-- **Background**: 
-- **Alignment**: 
+- **Character Name**: Melody Thistlefoot
+- **Race**: Halfling
+- **Class & Level**: Bard (Level 1)
+- **Background**: Entertainer
+- **Alignment**: Chaotic Good
 
 ## Character Description
 - **Age**: 
@@ -15,15 +15,19 @@
 - **Distinctive features**:
 
 ## Ability Scores
-- **Strength**: [score] ([modifier])
-- **Dexterity**: [score] ([modifier])
-- **Constitution**: [score] ([modifier])
-- **Intelligence**: [score] ([modifier])
-- **Wisdom**: [score] ([modifier])
-- **Charisma**: [score] ([modifier])
+- **Strength**: 8 (-1)
+- **Dexterity**: 14 (+2)
+- **Constitution**: 12 (+1)
+- **Intelligence**: 13 (+1)
+- **Wisdom**: 10 (+0)
+- **Charisma**: 16 (+3)
 
 ## Skills
-[List proficient skills with modifiers]
+- Performance (+5)
+- Persuasion (+5)
+- Acrobatics (+4)
+- Deception (+5)
+- History (+3)
 
 ## Combat Stats
 - **Armor Class**: 
@@ -39,9 +43,25 @@
 |        |              |        |      |            |
 
 ## Equipment
-- **Armor**: 
-- **Carried items**: 
-- **Money**: 
+- Lute (musical instrument)
+- Leather armor
+- Shortsword
+- Dagger
+- Backpack
+- Bedroll
+- Traveler's clothes
+- Waterskin
+- Gold pieces: 1
+- Silver pieces: 0
+
+## Special Items
+- **Fox charm**: A carved wooden fox on a leather cord that enhances awareness
+- **Evening star flowers**: Silver-petaled flowers that promote restful sleep
+- **Herbal remedies from Senna**:
+  - Blue bottle: Elderberry and echinacea tincture for general health (3 drops in water, morning and night)
+  - Green vial: Valerian and lavender mixture to protect the mind from magical influence (small sip when hearing compelling melodies)
+  - Clay pot: Healing salve for wounds and infection prevention
+- **Silk pouch**: For collecting moonshade fungi
 
 ## Features & Traits
 [List class features, racial traits, and background features]
