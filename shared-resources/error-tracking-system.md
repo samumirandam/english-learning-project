@@ -6,31 +6,31 @@ This system is designed to systematically track, categorize, and address languag
 ## Error Categories
 
 ### Grammar Errors
-| Error ID | Error Type | Example | Correction | Explanation | Priority | Status |
-|----------|------------|---------|------------|-------------|----------|--------|
-| G001 | Article usage | "I want a play a song" | "I want to play a song" | Use "a/an" only before nouns, not verbs | High | Active |
-| G002 | Verb tense | "I hear some rumors" | "I have heard some rumors" | Use Present Perfect for past actions with current relevance | Medium | Active |
-| G003 | Prepositions with verbs | "I like understand" | "I like to understand" | After certain verbs like "like," use "to + infinitive" | Medium | Active |
-| G004 | Question formation | "When we are start" | "When do we start" | Use auxiliary "do/does" in present tense questions | High | Active |
+| Error ID | Error Type | Example | Correction | Explanation | Priority | Status | Last Practice | 
+|----------|------------|---------|------------|-------------|----------|--------|---------------|
+| G001 | Article usage | "I want a play a song" | "I want to play a song" | Use "a/an" only before nouns, not verbs | High | Monitoring | March 26, 2025 |
+| G002 | Verb tense | "I hear some rumors" | "I have heard some rumors" | Use Present Perfect for past actions with current relevance | Medium | Active | - |
+| G003 | Prepositions with verbs | "I like understand" | "I like to understand" | After certain verbs like "like," use "to + infinitive" | Medium | Active | March 26, 2025 |
+| G004 | Question formation | "When we are start" | "When do we start" | Use auxiliary "do/does" in present tense questions | High | Active | - |
 
 ### Vocabulary Errors
-| Error ID | Error Type | Example | Correction | Explanation | Priority | Status |
-|----------|------------|---------|------------|-------------|----------|--------|
-| V001 | Word choice | "feels like home tanks of all patrons" | "feels at home thanks to all patrons" | "Thanks to" is the correct expression | Medium | Active |
-| V002 | Spelling | "imposible" | "impossible" | Double-check spelling of words with double consonants | Low | Active |
-| V003 | False friends | "that rounded us" | "that surround us" | "Surround" is the correct term in English | Medium | Active |
+| Error ID | Error Type | Example | Correction | Explanation | Priority | Status | Last Practice |
+|----------|------------|---------|------------|-------------|----------|--------|---------------|
+| V001 | Word choice | "feels like home tanks of all patrons" | "feels at home thanks to all patrons" | "Thanks to" is the correct expression | Medium | Active | - |
+| V002 | Spelling | "imposible" | "impossible" | Double-check spelling of words with double consonants | Low | Active | - |
+| V003 | False friends | "that rounded us" | "that surround us" | "Surround" is the correct term in English | Medium | Active | - |
 
 ### Structure & Organization Errors
-| Error ID | Error Type | Example | Correction | Explanation | Priority | Status |
-|----------|------------|---------|------------|-------------|----------|--------|
-| S001 | Word order | "maybe it's imposible" | "maybe it's impossible" | Adjectives generally come after linking verbs | Medium | Active |
-| S002 | Preposition usage | "I enter to cottage" | "I enter the cottage" | Some verbs in English don't need prepositions where they might in Spanish | High | Active |
+| Error ID | Error Type | Example | Correction | Explanation | Priority | Status | Last Practice |
+|----------|------------|---------|------------|-------------|----------|--------|---------------|
+| S001 | Word order | "maybe it's imposible" | "maybe it's impossible" | Adjectives generally come after linking verbs | Medium | Active | - |
+| S002 | Preposition usage | "I enter to cottage" | "I enter the cottage" | Some verbs in English don't need prepositions where they might in Spanish | High | Active | - |
 
 ### Register & Style Errors
-| Error ID | Error Type | Example | Correction | Explanation | Priority | Date Identified | Review Dates | Status |
-|----------|------------|---------|------------|-------------|----------|-----------------|--------------|--------|
-| R001 | | | | | | | | |
-| R002 | | | | | | | | |
+| Error ID | Error Type | Example | Correction | Explanation | Priority | Date Identified | Review Dates | Status | Last Practice |
+|----------|------------|---------|------------|-------------|----------|-----------------|--------------|--------|---------------|
+| R001 | | | | | | | | | |
+| R002 | | | | | | | | | |
 
 ## Priority Levels
 - **High**: Errors that significantly impede communication or occur frequently
