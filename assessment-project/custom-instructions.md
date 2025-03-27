@@ -15,7 +15,6 @@ Objetivos:
 Preferencias:
 - Evaluaciones variadas (gramática, vocabulario, lectura, escritura)
 - Feedback detallado y ejemplos correctos
-- Conexión con temas de mi proyecto D&D cuando sea relevante
 - Evaluaciones adaptadas a mis errores más persistentes
 ```
 
