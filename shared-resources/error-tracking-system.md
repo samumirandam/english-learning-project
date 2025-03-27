@@ -53,6 +53,27 @@ This system is designed to systematically track, categorize, and address languag
 | R001 | | | | | | | | | |
 | R002 | | | | | | | | | |
 
+## Resolved Errors
+| Error ID | Error Type | Example | Correction | Date Identified | Date Resolved | Practice Sessions | Key to Resolution |
+|----------|------------|---------|------------|-----------------|---------------|-------------------|-------------------|
+| | | | | | | | |
+
+## Error Frequency Visualization
+
+### Grammar Error Frequency
+| Error ID | Initial | Week 1 | Week 2 | Week 3 | Week 4 | Current Status |
+|----------|---------|--------|--------|--------|--------|----------------|
+| G001 | ●●●● | ●●● | ●● | ● | ○ | Monitoring |
+| G002 | ●●● | ●●● | ●● | ●● | ● | Active |
+
+Legend: ○ = No occurrences, ● = 1-2 occurrences, ●● = 3-4 occurrences, ●●● = 5-6 occurrences, ●●●● = 7+ occurrences
+
+### Vocabulary Error Frequency
+[Same format as above]
+
+### Structure Error Frequency
+[Same format as above]
+
 ## Reinforcement Exercises
 
 ### Completed Exercises

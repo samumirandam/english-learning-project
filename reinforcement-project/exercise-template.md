@@ -62,6 +62,18 @@
 ## Application to D&D Context
 [Suggestions for how to practice this feature in the next D&D session]
 
+## Connection to Previous Errors
+- **Error History**: [List specific errors from Error Tracking System that this exercise addresses]
+- **Error Frequency**: [Note frequency and pattern of these errors]
+- **Previous Practice**: [Reference any previous practice of these language points]
+- **Progress Since Last Practice**: [Note any improvements observed since last practice]
+
+## Application in D&D Context
+- **In-game Situations**: [Specific scenarios in the campaign where this language point is useful]
+- **Character Dialogue Opportunities**: [Suggestions for character lines using this structure]
+- **NPC Interactions**: [Potential NPC conversations to practice this structure]
+- **Quest-related Applications**: [How this language point connects to current quests]
+
 ## Progress Tracking
 - **Date completed**: _____________
 - **Score**: ____ / ____

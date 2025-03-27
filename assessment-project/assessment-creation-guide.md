@@ -70,6 +70,18 @@ This guide outlines the principles and processes for creating effective, level-a
 - Develop a comprehensive answer key
 - Create a scoring rubric for subjective sections
 
+### 2.5 Integration with Error Tracking and Reinforcement
+- Review recent entries in the Error Tracking System
+- Include targeted questions for persistent error patterns
+- Incorporate language points from recent reinforcement exercises
+- Balance assessment between:
+  * Recently practiced areas (to confirm improvement)
+  * Persistent challenge areas (to measure progress)
+  * New syllabus elements (to expand knowledge)
+- Include specific contexts from recent D&D sessions
+- Create questions that mirror real communication situations from gameplay
+- Ensure assessment provides clear data for updating the Error Tracking System
+
 ### 3. Review
 - Check alignment with target CEFR level
 - Ensure clarity of all instructions and questions

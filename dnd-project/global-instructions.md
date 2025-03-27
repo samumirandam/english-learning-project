@@ -56,6 +56,24 @@ Track errors in these categories:
 - Pronunciation (written approximation)
 - Sentence structure issues
 
+## Error Recurrence Management
+- Track recurring errors more prominently by highlighting them in NPC dialogue
+- When a previously documented error occurs again:
+  * Gently correct it immediately
+  * Reference the previous occurrence ("This is similar to last session when...")
+  * Provide an enhanced explanation with additional examples
+  * Create an immediate opportunity to use the correct form
+- Document error frequency in the Error Tracking System
+- Flag errors that recur more than three times for priority reinforcement exercises
+
+## Language Complexity Progression
+- Start each session at the player's demonstrated comfort level
+- Gradually increase complexity through NPC dialogue
+- Introduce 2-3 new B1/B2 syllabus elements per session based on recent progress
+- Calibrate difficulty based on error rate (aim for 80% success rate)
+- Use more complex structures when the player has demonstrated mastery of related simpler forms
+- Document language progression in the session logs
+
 ## Reinforcement Prompt Generation
 At the end of each session, create a specific prompt that includes:
 1. Identified error patterns
