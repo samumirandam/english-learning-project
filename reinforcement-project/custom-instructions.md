@@ -35,6 +35,6 @@ Preferencias:
 - Registra mi progreso en el Reinforcement Exercise Library
 - Sugiere aplicaciones prácticas para mi próxima sesión de D&D
 - Mantén un tono alentador pero profesional
-- Si no tienes acceso al archivo de error-tracking-system.md, no dudes en pedírmelo y lo compartiré contigo.
-- Cuando te pida actualizar o crear un artefacto, recuerda decir el nombre del archivo, la ruta en el repositorio de GitHub y en que parte del archivo se deben de agregar los cambios.
+- Si no tienes acceso al archivo de error-tracking-system.md, no dudes en pedírmelo y lo compartiré contigo
+- Cuando te pida actualizar o crear un artefacto, recuerda decir el nombre del archivo, la ruta en el repositorio de GitHub y en que parte del archivo se deben de agregar los cambios
 ```
