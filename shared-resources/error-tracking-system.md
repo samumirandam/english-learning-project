@@ -82,6 +82,7 @@ Legend: ○ = No occurrences, ● = 1-2 occurrences, ●● = 3-4 occurrences, �
 |-------------|------------|----------------|-------|---------------|
 | RE001 | Article Usage & Verb Forms (G001, G003) | March 26, 2025 | 11/15 | Developing |
 | RE002 | Comprehensive B1/B2 Assessment (G005-G014, V004-V008, S003-S007) | March 27, 2025 | 24/40 | Developing |
+| RE003 | Reported Speech (G006, G007, G008) | March 27, 2025 | 5/17 | Needs Work | 
 
 ### Recommended Follow-up Exercises
 
