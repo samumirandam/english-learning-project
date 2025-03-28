@@ -4,8 +4,9 @@
 
 | Exercise ID | Focus Area | Error IDs Addressed | Date Created | Date Completed | Mastery Level | Follow-up |
 |-------------|------------|---------------------|--------------|----------------|---------------|-----------|
-| RE001 | | | | | | |
-| RE002 | | | | | | |
+| RE001 | Article Usage & Verb Forms | G001, G003 | March 26, 2025 | March 26, 2025 | Developing | April 2, 2025 |
+| RE002 | Comprehensive B1/B2 Assessment | G005-G014, V004-V008, S003-S007 | March 27, 2025 | March 27, 2025 | Developing | Multiple dates |
+| RE003 | Reported Speech | G006, G007, G008 | March 27, 2025 | March 27, 2025 | Needs Work | April 3, 2025 |
 
 ## Exercise Categories
 
