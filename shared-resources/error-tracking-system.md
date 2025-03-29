@@ -22,7 +22,8 @@ This system is designed to systematically track, categorize, and address languag
 | G012 | Gerund as subject | "Learn a foreign language has benefits" | "Learning a foreign language has benefits" | Use gerund (-ing form) as the subject of a sentence | Medium | Active | March 27, 2025 |
 | G013 | Gerund after preposition | "Good for improve your travel" | "Good for improving your travel" | Use gerund after prepositions | Medium | Active | March 27, 2025 |
 | G014 | Verb tense consistency | "I want to practice... Then, I start using..." | "I wanted to practice... Then, I started using..." | Maintain consistent tense throughout narrative | Medium | Active | March 27, 2025 |
-
+| G015 | Verb tense consistency in narratives | "she starts the fire and put everything" | "she starts the fire and puts everything" | Maintain consistent present tense throughout a narrative | Medium | Active | March 28, 2025 |
+| G016 | Omitting subject pronouns | "when remembered the events" | "when she remembered the events" | Include subject pronouns in dependent clauses even when they're the same as in the main clause | Medium | Active | March 28, 2025 | 
 
 ### Vocabulary Errors
 | Error ID | Error Type | Example | Correction | Explanation | Priority | Status | Last Practice |
@@ -35,6 +36,7 @@ This system is designed to systematically track, categorize, and address languag
 | V006 | Prepositional phrases | "Go to a tour in boat" | "Go on a boat tour" | Fixed expressions: "go on a tour" and "boat tour" | Medium | Active | March 27, 2025 |
 | V007 | Spelling | "Prectice" | "Practice" | Common English spelling pattern | Low | Active | March 27, 2025 |
 | V008 | Spelling | "Lenguage" | "Language" | Words with silent 'u' after 'g' | Low | Active | March 27, 2025 |
+| V009 | Confusion between adjective/noun forms | "another spicy" | "another spice" | Be aware of different word forms: "spicy" (adj) vs. "spice" (noun) | Medium | Active | March 28, 2025 | 
 
 ### Structure & Organization Errors
 | Error ID | Error Type | Example | Correction | Explanation | Priority | Status | Last Practice |
@@ -93,6 +95,9 @@ Legend: ○ = No occurrences, ● = 1-2 occurrences, ●● = 3-4 occurrences, �
 | High | Passive Voice Forms | April 10, 2025 | G009, G010 |
 | Medium | Article Usage | April 17, 2025 | S003, S004 |
 | Medium | Gerunds vs. Infinitives | April 24, 2025 | G012, G013 |
+| Medium | Verb Tense Consistency in Narratives | April 24, 2025 | G015 |
+| Medium | Subject Pronouns in Dependent Clauses | May 1, 2025 | G016 |
+| Medium | Word Forms (Noun/Adjective/Verb) | May 8, 2025 | V009 | 
 
 ## Priority Levels
 - **High**: Errors that significantly impede communication or occur frequently
