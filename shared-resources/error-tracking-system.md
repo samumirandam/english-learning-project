@@ -24,6 +24,10 @@ This system is designed to systematically track, categorize, and address languag
 | G014 | Verb tense consistency | "I want to practice... Then, I start using..." | "I wanted to practice... Then, I started using..." | Maintain consistent tense throughout narrative | Medium | Active | March 27, 2025 |
 | G015 | Verb tense consistency in narratives | "she starts the fire and put everything" | "she starts the fire and puts everything" | Maintain consistent present tense throughout a narrative | Medium | Active | March 28, 2025 |
 | G016 | Omitting subject pronouns | "when remembered the events" | "when she remembered the events" | Include subject pronouns in dependent clauses even when they're the same as in the main clause | Medium | Active | March 28, 2025 | 
+| G017 | Reporting verb tense | "The wizard warn me" | "The wizard warned me" | Use past tense for reporting verbs in reported speech | Medium | Active | March 29, 2025 |
+| G018 | Reported negative commands | "warned me to not mix" | "warned me not to mix" | Use "not to + infinitive" structure for negative reported commands | Medium | Active | March 29, 2025 |
+| G019 | Prepositions with reporting verbs | "she replied me" | "she replied to me" | "Reply" requires the preposition "to" before the indirect object | Medium | Active | March 29, 2025 |
+
 
 ### Vocabulary Errors
 | Error ID | Error Type | Example | Correction | Explanation | Priority | Status | Last Practice |
@@ -37,6 +41,9 @@ This system is designed to systematically track, categorize, and address languag
 | V007 | Spelling | "Prectice" | "Practice" | Common English spelling pattern | Low | Active | March 27, 2025 |
 | V008 | Spelling | "Lenguage" | "Language" | Words with silent 'u' after 'g' | Low | Active | March 27, 2025 |
 | V009 | Confusion between adjective/noun forms | "another spicy" | "another spice" | Be aware of different word forms: "spicy" (adj) vs. "spice" (noun) | Medium | Active | March 28, 2025 | 
+| V010 | Articles with "both" | "the both potions" | "both potions" | The determiner "both" doesn't require "the" before it | Low | Active | March 29, 2025 |
+| V011 | Demonstratives with plural nouns | "that potions" | "those potions" | Use "those" with plural nouns, "that" with singular | Medium | Active | March 29, 2025 |
+
 
 ### Structure & Organization Errors
 | Error ID | Error Type | Example | Correction | Explanation | Priority | Status | Last Practice |
@@ -85,6 +92,10 @@ Legend: ○ = No occurrences, ● = 1-2 occurrences, ●● = 3-4 occurrences, �
 | RE001 | Article Usage & Verb Forms (G001, G003) | March 26, 2025 | 11/15 | Developing |
 | RE002 | Comprehensive B1/B2 Assessment (G005-G014, V004-V008, S003-S007) | March 27, 2025 | 24/40 | Developing |
 | RE003 | Reported Speech (G006, G007, G008) | March 27, 2025 | 5/17 | Needs Work | 
+| RE004 | Reported Speech - Advanced (G006, G007, G008) | March 28, 2025 | 21/24 | Proficient |
+| RE005 | Vocabulary - Adventure and Daily Life (V001, V003) | March 28, 2025 | 19/22 | Developing |
+| RE006 | Mixed Reported Speech and Sentence Structure (G006-G008, G015-G016, V009) | March 29, 2025 | 13/21 | Developing |
+ 
 
 ### Recommended Follow-up Exercises
 
@@ -95,6 +106,15 @@ Legend: ○ = No occurrences, ● = 1-2 occurrences, ●● = 3-4 occurrences, �
 | High | Passive Voice Forms | April 10, 2025 | G009, G010 |
 | Medium | Article Usage | April 17, 2025 | S003, S004 |
 | Medium | Gerunds vs. Infinitives | April 24, 2025 | G012, G013 |
+| Medium | Verb Tense Consistency in Narratives | April 24, 2025 | G015 |
+| Medium | Subject Pronouns in Dependent Clauses | May 1, 2025 | G016 |
+| Medium | Word Forms (Noun/Adjective/Verb) | May 8, 2025 | V009 |
+| High | Reporting Verb Tenses and Structures | April 5, 2025 | G017, G018, G019 |
+| High | Third Conditional vs. Second Conditional | April 10, 2025 | G005 |
+| High | Passive Voice Forms | April 17, 2025 | G009, G010 |
+| Medium | Subject-Verb Agreement | April 12, 2025 | G011, G015 |
+| Medium | Article Usage and Demonstratives | April 24, 2025 | S003, S004, V010, V011 |
+| Medium | Gerunds vs. Infinitives | May 1, 2025 | G012, G013 |
 | Medium | Verb Tense Consistency in Narratives | April 24, 2025 | G015 |
 | Medium | Subject Pronouns in Dependent Clauses | May 1, 2025 | G016 |
 | Medium | Word Forms (Noun/Adjective/Verb) | May 8, 2025 | V009 | 
